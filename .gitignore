@@ -1,0 +1,7 @@
+monitor
+dist/
+.build/
+.swiftpm/
+*.o
+.DS_Store
+.env
